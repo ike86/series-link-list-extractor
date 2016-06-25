@@ -87,3 +87,4 @@ ENV/
 
 # Rope project settings
 .ropeproject
+/series-link-list-extractor/.vs/series-link-list-extractor/v14
